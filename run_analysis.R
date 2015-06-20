@@ -64,8 +64,6 @@ y_train <- read.csv(file = y_train_file_path,
                     header = FALSE,
                     sep = " ")
 
-
-# rename(y_train, col_1 = V1)
 ## Read the subject instances tracked on the train data.
 subject_train_file_path <- "train\\subject_train.txt"
 subject_train <- read.csv(file = subject_train_file_path, 
