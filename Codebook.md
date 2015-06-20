@@ -95,6 +95,7 @@ The variables are:
 The data consists of the means of each Human Activity Recognition system measurement grouped by the subject and activity performed. 
 
 The steps to produce this data is:
+
 1. Download the raw datasets from - https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 2. Unzip the files to your local working directory for R. 
 3. Read all the features of the HCA datasets, features.txt from the main folder.
