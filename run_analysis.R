@@ -23,9 +23,6 @@
 ## Use dplyr 
 library(dplyr)
 
-## Set working directory
-setwd("C:\\Users\\Julie\\SkyDrive\\Coursera\\Getting and Cleaning Data\\Assignment1\\UCI HAR Dataset\\")
-
 ## Read all the features of the HCA datasets. 
 ## These features will be column names of the final dataset.
 features_file_path <- "features.txt"
